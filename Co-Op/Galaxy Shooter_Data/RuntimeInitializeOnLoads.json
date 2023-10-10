@@ -1,0 +1,1 @@
+{"root":[{"assemblyName":"Mixpanel","nameSpace":"mixpanel","className":"Controller","methodName":"InitializeBeforeSceneLoad","loadTypes":1,"isUnityClass":false},{"assemblyName":"Mixpanel","nameSpace":"mixpanel","className":"Controller","methodName":"InitializeAfterSceneLoad","loadTypes":0,"isUnityClass":false}]}

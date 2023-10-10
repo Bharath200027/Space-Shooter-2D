@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "api": "^5.0.1",
+    "docker-compose": "^0.23.17"
+  }
+}
